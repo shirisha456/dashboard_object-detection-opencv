@@ -1,1 +1,1 @@
-# dashboard_object-detection-opencv
+object-detection-yolo-opencv
