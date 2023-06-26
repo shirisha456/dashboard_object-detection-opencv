@@ -35,7 +35,9 @@ When it comes to object detection, popular detection frameworks are
  Checkout the [blog post](http://www.arunponnusamy.com/yolo-object-detection-opencv-python.html) to learn more.
  
  ### sample output :
- ![](object-detection.jpg)
+
+ ![image](https://github.com/shirisha456/dashboard_object-detection-opencv/assets/96306202/6f5bc22f-87eb-417a-b06a-5498c761ea29)
+
  
 Checkout the object detection implementation available in [cvlib](http:cvlib.net) which enables detecting common objects in the context through a single function call `detect_common_objects()`.
  
